@@ -1,2 +1,2 @@
-# my .vimrc configs and my void linux configs
+# my .vimrc config and my void linux and dwm config
 # personal only
